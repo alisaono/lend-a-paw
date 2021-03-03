@@ -7,12 +7,13 @@
 
 ## :scroll: Description
 <!--- Describe your app in one or two sentences -->
+Lend a paw is a handy adoption app to increase correspondence between our furry friends who're searching for a family and families who are searching for a furry family member.
 
 
 ## :bulb: Motivation and Context
 <!--- Optionally point readers to interesting parts of your submission. -->
 <!--- What are you especially proud of? -->
-
+One of the design choices was to allow users to scroll through profile detail pages for better user accessibility. This design avoids having the user select a profile detail and backing out to the general detail page to select another profile. The proudest design choice implemented is creating the custom layout class to display a grid of fluffy photos with their paw-sitively adorable names. 
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
