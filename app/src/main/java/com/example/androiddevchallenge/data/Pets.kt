@@ -1,3 +1,18 @@
+/*
+ * Copyright 2021 The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *     https://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
 package com.example.androiddevchallenge.data
 
 import com.example.androiddevchallenge.R
@@ -5,7 +20,7 @@ import com.example.androiddevchallenge.R
 object Pets {
     val pets = listOf(
         Pet(
-            name ="Robin Hood",
+            name = "Robin Hood",
             imageRes = R.drawable.meowy_1,
             personality = "Fierce, Potato, Elegant",
             requirement = "Who can limit their physical contact to 5 pets/day/person",
@@ -13,7 +28,7 @@ object Pets {
             age = "1 yr 4 months"
         ),
         Pet(
-            name ="Google",
+            name = "Google",
             imageRes = R.drawable.meowy_2,
             personality = "Smart, Fierce",
             requirement = "Who won’t interfere with her aspirations of being the first programmer cat",
@@ -21,7 +36,7 @@ object Pets {
             age = "4 years 2 months"
         ),
         Pet(
-            name ="Ruffian",
+            name = "Ruffian",
             imageRes = R.drawable.meowy_3,
             personality = "Shy, Potato",
             requirement = "Who has a dog who can be friends with her",
@@ -29,7 +44,7 @@ object Pets {
             age = "10 months"
         ),
         Pet(
-            name ="Maria",
+            name = "Maria",
             imageRes = R.drawable.meowy_4,
             personality = "Smart, Energetic",
             requirement = "Who can help her fish cafe and support her dream of being an aspiring business woman",
@@ -37,7 +52,7 @@ object Pets {
             age = "3 years 7 months"
         ),
         Pet(
-            name ="Shawn",
+            name = "Shawn",
             imageRes = R.drawable.meowy_5,
             personality = "Energetic, Loud",
             requirement = "Who doesn’t mind her southern meows and supports her being a cowboy cat",
@@ -45,7 +60,7 @@ object Pets {
             age = "9 years 1 month"
         ),
         Pet(
-            name ="Katrina",
+            name = "Katrina",
             imageRes = R.drawable.meowy_6,
             personality = "Loud, Energetic, Fierce",
             requirement = "Who is also very active, her favorite activity is yoga so a family who also enjoys yoga is preferred",
@@ -53,7 +68,7 @@ object Pets {
             age = "2 years 11 months"
         ),
         Pet(
-            name ="Shelby",
+            name = "Shelby",
             imageRes = R.drawable.meowy_7,
             personality = "Loud, Gentle, Playful",
             requirement = "Who can constantly take photos of her as an aspiring model",
@@ -61,7 +76,7 @@ object Pets {
             age = "3 years 1 month"
         ),
         Pet(
-            name ="Queen",
+            name = "Queen",
             imageRes = R.drawable.meowy_8,
             personality = "Potato, Affectionate, Sassy",
             requirement = "Who can be patient with her sass and confidence",
@@ -69,7 +84,7 @@ object Pets {
             age = "5 years 2 months"
         ),
         Pet(
-            name ="Prince Charming",
+            name = "Prince Charming",
             imageRes = R.drawable.meowy_9,
             personality = "Fierce, Sassy, Elegant",
             requirement = "Who enjoys buying clothes to play dress up with this beauty",
@@ -77,7 +92,7 @@ object Pets {
             age = "2 years 8 months"
         ),
         Pet(
-            name ="Floof",
+            name = "Floof",
             imageRes = R.drawable.meowy_10,
             personality = "Potato, Affectionate, Gentle",
             requirement = "Who doesn’t mind their cat melting into a liquid",
@@ -85,7 +100,7 @@ object Pets {
             age = "1 year 5 months"
         ),
         Pet(
-            name ="Elizabeth",
+            name = "Elizabeth",
             imageRes = R.drawable.meowy_11,
             personality = "Sassy, Energetic, Elegant",
             requirement = "Who appreciates her elegance and gentleness ",
@@ -93,7 +108,7 @@ object Pets {
             age = "6 years 2 months"
         ),
         Pet(
-            name ="Fetch",
+            name = "Fetch",
             imageRes = R.drawable.meowy_12,
             personality = "Playful, Energetic",
             requirement = "Who can keep up with her energy",
